@@ -30,7 +30,7 @@ proguard-rules.pro文件为额外配置的混淆文件
 - js引用的类和方法
 
 ### 配置混淆文件
-[示例](proguard-rules)
+[示例](proguard-rules.pro)
 
 [-keep 使用](keep使用)
 
