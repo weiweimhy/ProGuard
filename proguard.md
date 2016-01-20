@@ -64,7 +64,7 @@ ProGuard是一个开源的Java类文件（.class）处理工具，相比起其�
 - -renamesourcefileattribute {string}    设置源文件中给定的字符串常量
 - -dontwarn 忽略某个具体警告
 
-- [-keep 使用](keep使用)
+- [-keep 使用](keep使用.md)
 
 ### 生成文件
 使用ProGuard之后，会生成4个文件（gradle构建的android项目在app/build/outputs/mapping/release下）

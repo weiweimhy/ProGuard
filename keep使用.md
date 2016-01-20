@@ -32,6 +32,6 @@
 }]
 ```
 
-@annotationtype 注解
-public|private|protected|static|volatile|transient 修饰符
-interface|class|enum 类型
+@annotationtype 注解    
+public|private|protected|static|volatile|transient 修饰符     
+Ainterface|class|enum 类型

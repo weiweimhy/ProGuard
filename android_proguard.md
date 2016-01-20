@@ -32,7 +32,7 @@ proguard-rules.pro文件为额外配置的混淆文件
 ### 配置混淆文件
 [示例](proguard-rules.pro)
 
-[-keep 使用](keep使用)
+[-keep 使用](keep使用.md)
 
 ### 混淆后调试程序
 通过mapping.txt文件，可以得到恢复后的Log信息
